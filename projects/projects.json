@@ -2,6 +2,21 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "TweetListy", 
+    "thumb": "tweetlisty/thumb.jpg",
+    "desc": "Awesome Twitter Lists Manager",
+    "url": "http://tweetlisty.com",
+    "info": "http://tweetlisty.com",
+    "submitter": "rops",
+    "submissionDate": "2014-09-16",
+    "tags": [
+      "Production",
+      "Social", 
+      "Twitter", 
+      "jQuery"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
